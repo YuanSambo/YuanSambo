@@ -20,7 +20,7 @@
 
 ## Languages
 <img align="left" alt="html5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" />
-<img align="left" alt="html5" width="30px" src="https://www.pikpng.com/pngl/m/469-4698781_learning-c-programming-4-c-logo-svg-clipart.png" />
+<img align="left" alt="html5" width="30px" src="https://f0.pngfuel.com/png/46/626/c-logo-png-clip-art.png" />
 <img align="left" alt="html5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" /> </br>
 
 
