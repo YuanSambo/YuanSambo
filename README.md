@@ -1,17 +1,20 @@
+<p align="center">
+  <img src="https://github.com/YuanSambo/YuanSambo/blob/master/YuPotraitCircle.png" />
+</p>
 
-👋 Hi! I'm Yuan, a 3rd year IT student from Polytechnic University of the Philippines Sto.Tomas and a passionate self-taught game developer using C# and Unity.
+👋 Hi! I'm Yuan, a 3rd year IT student from Polytechnic University of the Philippines Sto.Tomas and a game programmer using C#, C++ and Unity.
 
-[![](https://img.shields.io/badge/Gmail-yuan.sambo@gmail.com-red)](mailto:yuan.sambo@gmail.com) [![](https://img.shields.io/badge/Linkedin-John%20Dominic%20Sambo-blue)](https://www.linkedin.com/in/john-dominic-sambo-66825b18a/)
+[![](https://img.shields.io/badge/Gmail-yuan.sambo@gmail.com-red)](mailto:yuan.sambo@gmail.com) [![](https://img.shields.io/badge/Linkedin-John%20Dominic%20Sambo-blue)](https://www.linkedin.com/in/john-dominic-sambo-66825b18a/) [![](https://img.shields.io/badge/Itch.io-Yu%20Dev-orange)](https://yudev.itch.io/)
 
 ### :man_technologist: About Me
 
-- 🌱 I’m currently learning C#, Pixel Art, Data Structure and Algorithms & Game Design. 
+- 🌱 I’m currently learning C#,C++,SFML and Game Design.
 
 - 👯 I’m looking to collaborate with people who will help me on the UI and Graphic Design of my projects. 
 
 - 🤔 I’m looking for help with everything related to arts. 
 
-- 💬 Ask me about Game Design and OOP. 
+- 💬 Ask me anything about Game Development related. 
 
 - ⚡ Fun fact: I prefer 2D pixel art indie games than triple A 3D games.
 
