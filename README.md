@@ -8,7 +8,7 @@
 
 
 [![](https://img.shields.io/badge/Gmail-yuan.sambo@gmail.com-red)](mailto:yuan.sambo@gmail.com) [![](https://img.shields.io/badge/Linkedin-John%20Dominic%20Sambo-blue)](https://www.linkedin.com/in/john-dominic-sambo-66825b18a/) [![](https://img.shields.io/badge/Itch.io-Yu%20Dev-orange)](https://yudev.itch.io/)
- <img src="https://komarev.com/ghpvc/?username=YuanSambo&label=Profile%20views&color=0e75b6&style=flat" alt="YuanSambo" /> 
+ <img src="https://komarev.com/ghpvc/?username=your-github-YuanSambo&style=flat-square" alt="YuanSambo" /> 
 
 
 <h2>:man_technologist: About Me </h2>
