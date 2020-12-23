@@ -3,7 +3,7 @@
 </p>
 </br>
 <p align ="left">
-👋 Hi! I'm Yuan, a 3rd year IT student from Polytechnic University of the Philippines Sto.Tomas and a game programmer using C#, C++ and Unity.</p>
+👋  Hi! I'm Yuan, a passionate game programmer who loves to code and develop game-focused applications.
 </br>
 
 
@@ -13,7 +13,7 @@
 
 <h2>:man_technologist: About Me </h2>
 
-- 🌱 I’m currently learning C#,C++,SFML and Game Design.
+- 🌱 I’m currently learning C#, C++, SFML and Game Design.
 
 - 👯 I’m looking to collaborate with people who will help me on the UI and Graphic Design of my projects. 
 
@@ -28,14 +28,14 @@
 
 <h2>Languages</h2>
 <img align="left" alt="html5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" />
-<img align="left" alt="html5" width="30px" src="https://f0.pngfuel.com/png/46/626/c-logo-png-clip-art.png" />
+<img align="left" alt="html5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="html5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" /> </br>
 
 
 
 <h2>Tools</h2>
 <img align="left" alt="html5" width="30px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
-<img align="left" alt="html5" width="30px" src="https://www.pinclipart.com/picdir/middle/103-1039486_but-if-you-have-a-visual-studio-background.png" />
+<img align="left" alt="html5" width="30px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
 <img align="left" alt="html5" width="30px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" />
 <img align="left" alt="html5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="html5" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" />
@@ -44,6 +44,10 @@
 
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=YuanSambo&show_icons=true&theme=algolia" alt="YuanSambo" /></p>
+</br>
+</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanSambo&layout=compact" alt="YuanSambo" /></p>
+</br>
 
 
 
