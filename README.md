@@ -43,7 +43,7 @@
 
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=YuanSambo&show_icons=true&theme=algolia" alt="YuanSambo" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanSambo&layout=compact" alt="YuanSambo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanSambo&layout=compact&hide=javascript,python" alt="YuanSambo" /></p>
 
 
 
