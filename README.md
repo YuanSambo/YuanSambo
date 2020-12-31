@@ -45,10 +45,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=YuanSambo&show_icons=true&theme=algolia" alt="YuanSambo" /></p>
 </br>
 
-<p align ="left">
+<p>
 <a href="https://wakatime.com"><img width="500px" src="https://wakatime.com/share/@5eddb5de-d7b1-4ab5-b408-c9f983c16067/4ce2f68d-e2ae-4117-b478-440eca8b2968.png" /></a>
-</p>
-
-<p align = "right">
 <a href="https://wakatime.com"><img width = "500px" src="https://wakatime.com/share/@5eddb5de-d7b1-4ab5-b408-c9f983c16067/a2d5cfb9-44b0-49e4-8481-3f63d2d21791.png" /></a>
 </p>
+
+
