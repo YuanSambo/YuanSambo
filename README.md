@@ -13,21 +13,19 @@
 
 <h2>:man_technologist: About Me </h2>
 
-- 🌱 I’m currently learning C#, C++, SFML and Game Design.
+- 🌱 I’m currently learning C#, C++, and Game Design.
 
-- 👯 I’m looking to collaborate with people who will help me on the UI and Graphic Design of my projects. 
+- 👯 I’m looking to collaborate with people who will help me on the UI and Graphic Design for my projects. 
 
 - 🤔 I’m looking for help with everything related to arts. 
 
 - 💬 Ask me anything about Game Development related. 
 
-- ⚡ Fun fact: I prefer 2D pixel art indie games than triple A 3D games.
-
 
 
 
 <h2>Languages</h2>
-<img align="left" alt="html5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" />
+<img align="left" alt="html5" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="html5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="html5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" /> </br>
 
@@ -50,7 +48,4 @@
 
 <p>
 <a href="https://wakatime.com"><img width="500px" src="https://wakatime.com/share/@5eddb5de-d7b1-4ab5-b408-c9f983c16067/4ce2f68d-e2ae-4117-b478-440eca8b2968.png" /></a>
-<a href="https://wakatime.com"><img width = "500px" src="https://wakatime.com/share/@5eddb5de-d7b1-4ab5-b408-c9f983c16067/a2d5cfb9-44b0-49e4-8481-3f63d2d21791.png" /></a>
-</p>
-
 
