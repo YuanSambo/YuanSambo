@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YuanSambo/YuanSambo/blob/main/YuDevBanner.png" />
+  <img src="https://github.com/YuanSambo/YuanSambo/blob/main/BannerYu.png" />
 
 </p>
 <div align="center">
