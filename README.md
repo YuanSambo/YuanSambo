@@ -1,12 +1,19 @@
 <p align="center">
   <img src="https://github.com/YuanSambo/YuanSambo/blob/main/YuDevBanner.png" />
+
 </p>
+<div align="center">
+ <h3>“All things are possible for the one who believes” - Mark 9:23 </h3>
+</div>
+
+
 </br>
-<h2> Hey there! I'm Yuan.</h2>
+<h1> Hi there! I'm Yuan.</h1>
 
 
 [![Instagram](https://img.shields.io/badge/YuanSambo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yuansambo/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-dominic-sambo-66825b18a/) 
+[![Netlify](https://img.shields.io/badge/Netlify-%20B2AA.svg?style=for-the-badge&logo=Netlify&logoColor=white)](https://yudev.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuan.sambo@gmail.com)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -37,14 +44,7 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-7d929e?style=for-the-badge&logo=aseprite&logoColor=white)
 
 
-<h3>🌐 Connect with Me</h3>
-  
-[![Instagram](https://img.shields.io/badge/YuanSambo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yuansambo/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-dominic-sambo-66825b18a/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuan.sambo@gmail.com)
-  
-
-<h2>Stats</h2>
+<h3> 📊&nbsp; Stats</h3>
 
 
 </br>
