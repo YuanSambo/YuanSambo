@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YuanSambo/YuanSambo/blob/master/Banner.png" />
+  <img src="https://github.com/YuanSambo/YuanSambo/blob/main/YuDev.png" />
 </p>
 </br>
 <h2> Hey there! I'm Yuan.</h2>
